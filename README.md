@@ -4,5 +4,5 @@
 
 You can view or download the PDF document by clicking the link below:
 
-[View PDF](https://github.com/riteshtambe/ChatWithPdf/raw/main/ChatWithPdf_report2.pdf)
+[View PDF](https://github.com/riteshtambe/ChatWithPdf/raw/main/ChatWithPdf_report.pdf)
 
