@@ -2,9 +2,6 @@
 ### Project Overview: Interactive PDF Document Analysis and Question Answering System
 # My PDF Document
 
-You can view or download the PDF document by clicking the link below:
-
-[View PDF](https://github.com/riteshtambe/ChatWithPdf/raw/main/ChatWithPdf_report.pdf)
 
 <!DOCTYPE html>
 <html lang="en">
@@ -24,7 +21,7 @@ You can view or download the PDF document by clicking the link below:
 </head>
 <body>
     <div id="viewer"></div>
-    <script src=""></script>
+    <script src="https://github.com/riteshtambe/ChatWithPdf/blob/01850129b122ff561a36f7a69a0ee192fb3f647b/ChatWithPdf_report%202.pdf"></script>
     <script>
         const pdfjsLib = window['pdfjs-dist/build/pdf'];
 
